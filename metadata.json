@@ -1,0 +1,5 @@
+{
+  "name": "UniBoard: Smart Digital Notice Board",
+  "description": "A real-time digital notice board for universities featuring categorized announcements, priority alerts, and administrative controls.",
+  "requestFramePermissions": []
+}
